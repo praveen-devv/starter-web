@@ -11,3 +11,9 @@ This is a introduction description
 Sample website with plenty of files for demos
 
 ## HOw to contribute
+
+This is a contribute secton
+
+
+## Conclusion 
+this is a cpoclusion section
