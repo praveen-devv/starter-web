@@ -23,3 +23,6 @@ This is a copyright section
 
 # Master content
 Chnaging content in the master branch
+
+## Rebasing
+Rebasing the master content.
