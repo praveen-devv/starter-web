@@ -25,4 +25,4 @@ This is a copyright section
 Chnaging content in the master branch
 
 ## Rebasing
-Rebasing the my feature to master
+Rebasing the my feature to master , More changes applied ont the feature branch
