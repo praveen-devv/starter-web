@@ -26,3 +26,7 @@ Chnaging content in the master branch
 
 ## Rebasing
 Rebasing the my feature to master , More changes applied ont the feature branch
+
+
+## Stashing
+Getting to know about stashing
